@@ -694,6 +694,7 @@ async def main(incode):
         # await main()
 
 
+
 async def run():
     global PUSH_MSG
     invite_code_list = check_env()
